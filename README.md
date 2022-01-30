@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TVladimirG
-- 👀 I’m interested in Flutter & Dart
-- I study in several courses...
+- I’m interested in Flutter & Dart
 
 
 
