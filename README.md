@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TVladimirG
-- I’m interested and learning Flutter & Dart
-
 
 
 <!---
